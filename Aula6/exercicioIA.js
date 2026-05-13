@@ -1,6 +1,5 @@
 // ============================================================================
 // EXERCÍCIOS ADICIONAIS DE AGREGação MONGODB - NÍVEL INTERMEDIÁRIO/AVANÇADO
-// Todos os exercícios resolvidos com comentários didáticos detalhados
 // ============================================================================
 
 // ----------------------------------------------------------------------------
